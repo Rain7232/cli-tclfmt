@@ -2,7 +2,7 @@
 A script for formatting the TCL source code 
 
 tclfmt.py -h
-usage: tclfmt.py [-h] [-f FMTFILE] [-t SAVETO] [-e EXAMPLE]
+usage: tclfmt.py [-h] [-f FMTFILE] [-t SAVETO] [-e EXAMPLE]\n
 
 optional arguments:
     -h, --help  show this help message and exit
