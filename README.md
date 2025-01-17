@@ -1,7 +1,7 @@
 # cli-tclfmt
 A script for formatting the TCL source code 
 
-tclfmt.py -h
+tclfmt.py -h  
 usage: tclfmt.py [-h] [-f FMTFILE] [-t SAVETO] [-e EXAMPLE]  
 
 optional arguments:  
